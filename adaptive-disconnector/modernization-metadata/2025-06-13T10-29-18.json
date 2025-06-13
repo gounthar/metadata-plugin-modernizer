@@ -1,0 +1,14 @@
+{
+  "pluginName": "adaptive-disconnector",
+  "pluginRepository": "https://github.com/jenkinsci/adaptive-disconnector-plugin.git",
+  "pluginVersion": "0.2",
+  "rpuBaseline": "1.609",
+  "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+  "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+  "tags": [
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+  "key": "2025-06-13T10-29-18.json",
+  "path": "metadata-plugin-modernizer/adaptive-disconnector/modernization-metadata"
+}
