@@ -1,0 +1,14 @@
+{
+  "pluginName": "breachlock-dast",
+  "pluginRepository": "https://github.com/jenkinsci/breachlock-dast-plugin.git",
+  "pluginVersion": "1.2",
+  "rpuBaseline": "2.164",
+  "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+  "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+  "tags": [
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+  "key": "2025-06-13T13-47-51.json",
+  "path": "metadata-plugin-modernizer/breachlock-dast/modernization-metadata"
+}
