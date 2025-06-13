@@ -1,0 +1,14 @@
+{
+  "pluginName": "custom-build-properties",
+  "pluginRepository": "https://github.com/jenkinsci/custom-build-properties-plugin.git",
+  "pluginVersion": "2.90.v4c63458e3ec8",
+  "rpuBaseline": "2.263",
+  "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+  "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+  "tags": [
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+  "key": "2025-06-13T15-34-13.json",
+  "path": "metadata-plugin-modernizer/custom-build-properties/modernization-metadata"
+}
