@@ -1,0 +1,14 @@
+{
+  "pluginName": "aws-device-farm",
+  "pluginRepository": "https://github.com/jenkinsci/aws-device-farm-plugin.git",
+  "pluginVersion": "1.34",
+  "rpuBaseline": "2.138",
+  "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+  "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+  "tags": [
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+  "key": "2025-06-13T12-58-09.json",
+  "path": "metadata-plugin-modernizer/aws-device-farm/modernization-metadata"
+}
