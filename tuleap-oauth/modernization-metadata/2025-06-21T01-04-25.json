@@ -20,9 +20,9 @@
   "checkRuns": {
     "Jenkins Security Scan": "success",
     "security-scan / scan": "success",
-    "Tests (windows-2022) with coverage": "cancelled",
+    "Build and archive": "success",
     "Tests (ubuntu-22.04) with coverage": "failure",
-    "Build and archive": "success"
+    "Tests (windows-2022) with coverage": "cancelled"
   },
   "checkRunsSummary": "failure"
 }
